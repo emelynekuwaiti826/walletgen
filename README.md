@@ -7,7 +7,7 @@ Meta description:
 WalletGen is a high-speed, open-source crypto wallet generator and balance finder for Bitcoin, Ethereum, and other EVM-compatible blockchains. It allows brute-force seed phrase testing, wallet generation, and recovery of lost crypto wallets using databases or real-time balance checks.
 -->
 
-[![platform](https://img.shields.io/badge/platform-Windows%20%7C%20MacOS%20%7C%20Linux-blue)](../../releases/tag/walletgen)
+[![platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)](../../releases/tag/walletgen)
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
 ![discord](https://img.shields.io/badge/discord-cotetony-blue.svg?logo=discord&label=discord)
 [![x](https://img.shields.io/badge/@tonydevbtc-black.svg?logo=x)](https://x.com/tonydevbtc)
