@@ -65,7 +65,7 @@ cd walletgen
 | Database                                                     | Download link                                |  File Size                             | Number of Addresses  |
 |---------------------------------------------------------|------------------------------------------------|------------------------------------|----------------------------------|
 | BTC Database                                            | &nbsp;&nbsp;&nbsp;&nbsp;[btc_database.txt](https://github.com/tonydev03/walletgen/releases/tag/database)  | 1.03 GB | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23 428 179
-| EVM Database                                            | &nbsp;&nbsp;&nbsp;&nbsp;[evm_database.txt](https://github.com/tonydev03/walletgen/releases/tag/database)  | 1.02 GB | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25 999 700
+| EVM Database                                            | &nbsp;&nbsp;&nbsp;&nbsp;[evm_database.txt](https://github.com/tonydev03/walletgen/releases/tag/database)  | 1.27 GB | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;25 999 700
 
 ## Demo
 
