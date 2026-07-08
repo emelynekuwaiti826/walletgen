@@ -8,7 +8,6 @@ WalletGen is a high-speed, open-source crypto wallet generator and balance finde
 -->
 
 [![platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)](../../releases/tag/walletgen)
-![build](https://img.shields.io/badge/build-passing-brightgreen)
 ![discord](https://img.shields.io/badge/discord-cotetony-blue.svg?logo=discord&label=discord)
 [![x](https://img.shields.io/badge/@tonydevbtc-black.svg?logo=x)](https://x.com/tonydevbtc)
 [![telegram](https://img.shields.io/badge/@walletgenbtc-blue.svg?logo=telegram)](https://t.me/walletgenbtc)
