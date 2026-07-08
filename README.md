@@ -80,6 +80,37 @@ cd walletgen
   <img width="900" alt="WalletGen Linux demo" src="/assets/walletgen-linux.png" />
 </p>
 
+---
+
+## WalletGen Finds
+
+
+<img width="1070" height="533" alt="find1" src="https://github.com/user-attachments/assets/57ebb4ab-ac2b-4415-902b-d9f4bf38fb5f" />
+
+<img width="1200" height="766" alt="find3" src="https://github.com/user-attachments/assets/05000872-4b9e-4f6b-9b55-fbf4f4e9ccbd" />
+<img width="1200" height="529" alt="find2" src="https://github.com/user-attachments/assets/4d804215-aff4-4cb9-8342-b6247df81a3a" />
+
+<img width="1200" height="646" alt="find6" src="https://github.com/user-attachments/assets/19c0507b-439c-4a2f-b56c-bd58a82baa9b" />
+
+<img width="1200" height="501" alt="find7" src="https://github.com/user-attachments/assets/43035b67-e4d9-45f9-ace4-dc1a1a529a86" />
+
+<table>
+<tr>
+<td>
+<img src="https://github.com/user-attachments/assets/28b9fdf3-036b-4699-badb-1f382f3d2e9c" width="700">
+</td>
+<td>
+<img src="https://github.com/user-attachments/assets/ad730fba-76b4-4186-aa35-971f1e2b47ab" width="260">
+</td>
+</tr>
+</table>
+
+<img width="1200" height="536" alt="find9" src="https://github.com/user-attachments/assets/f3f000c5-b4ab-4fd2-aa2e-12eb08164056" />
+
+<img width="1200" height="841" alt="find12" src="https://github.com/user-attachments/assets/841f1ba0-bb10-4b10-b262-98bb7afbc8ab" />
+
+<img width="1145" height="618" alt="find10" src="https://github.com/user-attachments/assets/2c9ae843-c5a9-486e-a3fd-4a3225cd5673" />
+
 
 ## How to Search for Lost Bitcoin & Ethereum Wallets with Balance
 
